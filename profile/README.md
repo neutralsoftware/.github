@@ -32,7 +32,7 @@ Its technology includes:
 - TypeScript scripting
 - Cross-platform editor and tooling
 
-**Repository:** [neutral-software/atlas](https://github.com/neutral-software/atlas)
+**Repository:** [neutralsoftware/atlas](https://github.com/neutralsoftware/atlas)
 
 ### Opal
 
